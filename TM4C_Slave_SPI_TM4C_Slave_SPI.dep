@@ -1,0 +1,3 @@
+Dependencies for Project 'TM4C_Slave_SPI', Target 'TM4C_Slave_SPI': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4DF0CB60)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\TM4C_Slave_SPI.c)(0x5748374B)(-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.. -I..\..\..-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Luminary-o .\tm4c_slave_spi.o --omf_browse .\tm4c_slave_spi.crf --depend .\tm4c_slave_spi.d)
